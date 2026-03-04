@@ -51,5 +51,5 @@ A typical successful run prints:
 A_base is a (4,5)-set: YES
 h(A_base) = 8
 One maximum Sidon subset witness: [0, 136, 200, 243, 246, 298, 323, 528]
-VERIFIED
+h(A_base)=8: VERIFIED
 ```
